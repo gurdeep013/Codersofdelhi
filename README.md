@@ -35,10 +35,6 @@ It demonstrates how core Python logic can power friend and page suggestions like
 Most projects rely on heavy libraries. This one proves that **clean data + Python logic** is enough to build meaningful recommendation systems.  
 It’s **simple, beginner-friendly, and scalable**.  
 
----
-
-## 📥 Download Data
-👉 [Get the dataset here](https://drive.google.com/file/d/12yNYAc6scY4haBZzF8MQstJmT0ZBTBRi/view?usp=sharing)  
 
 ---
 
